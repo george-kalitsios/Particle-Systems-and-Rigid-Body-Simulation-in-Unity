@@ -1,4 +1,5 @@
-# Particle-Systems-and-Rigid-Body-Simulation-in-Unity
+## Particle-Systems-and-Rigid-Body-Simulation-in-Unity
+#### AI & Games Project
 
 http://web.stanford.edu/class/cs248/assignment/assignment3.pdf
 
